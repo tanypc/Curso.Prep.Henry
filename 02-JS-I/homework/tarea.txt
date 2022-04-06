@@ -1,0 +1,18 @@
+// 1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+
+    - Variables: "Son un espacio donde puedo guardar valores, sean números, texto, funciones, etc."
+
+    - String: "Son una cadena de texo o caracteres."
+
+    - Funciones: "Es un código que sirve para optimizar una función que se pueda repetir, en lugar de hacerlo muchas veces se ejecuta una de acuerdo a las condiciones dadas y lo que planteemos".
+
+    - Declaraciones: "Son bucles que se repiten hasta que logren la condición dada."
+
+    - Valores booleanos: "Son los que devuelven "true" o "false.""
